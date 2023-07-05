@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+tweepy = "*"
+google-search-results = "*"
 
 [dev-packages]
 
